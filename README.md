@@ -1,6 +1,6 @@
 # Stevie Wonder — EP cover review
 
-Two creative directions for Songs in the Key of Life, 50th Anniversary.
+Two creative directions for Songs in the Key of Life: The EP.
 
 Open `index.html` directly or view the GitHub Pages site. All artwork, typography and zoom-test assets are embedded in this single HTML file; it has no external runtime dependencies.
 
